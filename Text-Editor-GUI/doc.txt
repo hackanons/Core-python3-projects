@@ -1,0 +1,9 @@
+Project Highlights:
+
+> Tkinter interface for Text editor
+> Basic text editor tasks like cursor,line number
+> File handling to manage the text files
+> Different icons for cut,copy,info,find_text,new file,open file
+> Line numbers  and column number display at the bottom.
+> 7 Themes 
+
