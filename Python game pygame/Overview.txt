@@ -1,0 +1,21 @@
+Core Python3 Gaming Projects :
+
+a.) Car Racing Game
+
+b.) Helicopter Game
+
+Projects Overiew : 
+
+Usage of Basic Python concepts:
+
+->Loops 
+->Functions
+->Conditional Statements 
+
+Python Libraries :
+-> Time [preinstalled]
+-> Random [preinstalled]
+-> Pygame [pip3 install pygame]
+
+Strectch Goals: 
+Multiple levels | Timed condition | Multiple lives Multiplayer support
